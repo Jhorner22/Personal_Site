@@ -16,7 +16,7 @@ function App() {
             <Switch>
                 {/* all the different routes go here aka the pages with the website.com/"ROUTE" */}
                 <Route path="/test">
-                    <test/>
+                    <Test/>
                 </Route>
             </Switch>
         </Router>
